@@ -1,0 +1,13 @@
+name: t-alpine
+version: 0.1.0
+
+authors:
+  - Steve Baldwin <steve.baldwin@gmail.com>
+
+targets:
+  t-alpine:
+    main: src/t-alpine.cr
+
+crystal: 0.29.0
+
+license: MIT
